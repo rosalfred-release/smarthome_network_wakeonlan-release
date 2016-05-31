@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+  <name>smarthome_network_wakeonlan</name>
+  <version>0.1.66</version>
+  <description>The wakeonlan package</description>
+
+  <maintainer email="mick.gaillard@gmail.com">Mickaël Gaillard</maintainer>
+  <maintainer email="erwan.lehuitouze@gmail.com">Erwan Le Huitouze</maintainer>
+  <author email="mick.gaillard@gmail.com">Mickaël Gaillard</author>
+  <author email="erwan.lehuitouze@gmail.com">Erwan Le Huitouze</author>
+
+  <license>Apache V2</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>std_msgs</build_depend>
+  <build_depend>rosjava_build_tools</build_depend>
+
+  <run_depend>std_msgs</run_depend>
+
+</package>
